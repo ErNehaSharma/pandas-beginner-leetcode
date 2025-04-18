@@ -17,10 +17,7 @@ LeetCode is a popular platform for practicing coding problems and preparing for 
 
 You can download the PDF files containing the solutions from the following links:
 
-- 📊 [Array Problems](path/to/array-solutions.pdf)
-- 🔤 [String Problems](path/to/string-solutions.pdf)
-- 📈 [Dynamic Programming Problems](path/to/dp-solutions.pdf)
-- 🌐 [Graph Problems](path/to/graph-solutions.pdf)
+- 📊 [Introduction to Pandas](https://github.com/ErNehaSharma/pandas-beginner-leetcode/blob/main/Introduction%20to%20Pandas.pdf)
 
 Feel free to download the PDFs and use them as a reference for your coding practice! 🚀
 
